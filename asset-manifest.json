@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fractalmongodb/static/css/main.073c9b0a.css",
+    "main.js": "/fractalmongodb/static/js/main.29fa056e.js",
+    "static/js/787.2bc1e878.chunk.js": "/fractalmongodb/static/js/787.2bc1e878.chunk.js",
+    "index.html": "/fractalmongodb/index.html",
+    "main.073c9b0a.css.map": "/fractalmongodb/static/css/main.073c9b0a.css.map",
+    "main.29fa056e.js.map": "/fractalmongodb/static/js/main.29fa056e.js.map",
+    "787.2bc1e878.chunk.js.map": "/fractalmongodb/static/js/787.2bc1e878.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.29fa056e.js"
+  ]
+}
